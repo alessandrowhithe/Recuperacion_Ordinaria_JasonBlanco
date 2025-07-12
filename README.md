@@ -1,12 +1,44 @@
-# React + Vite
+# 🦸‍♂️ Escuelita Marvel - Gestión Estudiantil
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido al sistema de gestión estudiantil de la **Escuelita Marvel**!  
+Este proyecto está diseñado para ayudar a nuestros héroes (y futuros héroes) a organizar su vida académica, sus logros y entrenamientos, en un entorno seguro, moderno y fácil de usar.
 
-Currently, two official plugins are available:
+## ✨ Descripción del Proyecto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+¿Alguna vez pensaste en cómo se administraría una escuela de superhéroes?  
+Aquí tienes la respuesta: un sitio web donde los estudiantes, profesores y administradores pueden gestionar todo lo relacionado con la formación de los héroes del mañana.  
+Desde el seguimiento de calificaciones, asistencia y observaciones, hasta la actualización de sus poderes y habilidades, ¡este sistema lo tiene todo!
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologías Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **JavaScript** — Dinamismo digno de los Vengadores.
+- **Node.js** & **Express.js** — Velocidad y eficiencia tipo Quicksilver.
+*(Agrega o ajusta tecnologías según corresponda al proyecto)*
+
+## 🛠️ Instrucciones de Instalación y Ejecución
+
+1. **Clona el repositorio con tu súper comando:**
+   ```bash
+   git clone https://github.com/alessandrowhithe/Recuperacion_Ordinaria_JasonBlanco.git
+   cd Recuperacion_Ordinaria_JasonBlanco
+   ```
+
+2. **Instala los poderes (dependencias):**
+   ```bash
+   npm install
+   ```
+
+3. **Configura tu piedra del infinito (.env):**
+   Crea un archivo `.env` en la raíz con tu configuración secreta:
+   ```
+   MONGODB_URI=<TU_URI_DE_MONGODB>
+   PORT=3000
+   ```
+
+4. **Activa el portal (ejecuta la app):**
+   ```bash
+   npm start
+   ```
+
+5. **¡Accede al cuartel general!**
+   Ve a [http://localhost:3000](http://localhost:3000) en tu navegador y empieza a gestionar héroes.
