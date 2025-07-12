@@ -46,7 +46,18 @@ Desde el seguimiento de calificaciones, asistencia y observaciones, hasta la act
 
 
 
-![Imagen de WhatsApp 2025-07-11 a las 08 00 45_cc70a5ec](https://github.com/user-attachments/assets/43542dec-d2e3-4a46-975f-87d0fbc639bb)
+
+
+<img width="926" height="775" alt="image" src="https://github.com/user-attachments/assets/dff39447-1db9-4af5-972e-f547329d547a" />
+
+<img width="1725" height="827" alt="image" src="https://github.com/user-attachments/assets/d3c838ba-c0c1-4ead-95fc-9727194a57b5" />
+
+<img width="1618" height="813" alt="image" src="https://github.com/user-attachments/assets/67fbd343-6399-4558-baff-a0b75c6d8b2c" />
+
+
+
+- **Link para el video explicativo**
+- https://drive.google.com/file/d/1bEBpjNhjymztGJb-MPzyEG3e_MBJAolu/view?usp=sharing
 
 
 
