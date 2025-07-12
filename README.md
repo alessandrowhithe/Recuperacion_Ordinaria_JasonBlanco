@@ -11,9 +11,10 @@ Desde el seguimiento de calificaciones, asistencia y observaciones, hasta la act
 
 ## 🚀 Tecnologías Utilizadas
 
-- **JavaScript** — Dinamismo digno de los Vengadores.
-- **Node.js** & **Express.js** — Velocidad y eficiencia tipo Quicksilver.
-*(Agrega o ajusta tecnologías según corresponda al proyecto)*
+- **JavaScript**
+- **Node.js** & **Express.js**
+- **CSS**
+- **VS Code**
 
 ## 🛠️ Instrucciones de Instalación y Ejecución
 
@@ -42,3 +43,12 @@ Desde el seguimiento de calificaciones, asistencia y observaciones, hasta la act
 
 5. **¡Accede al cuartel general!**
    Ve a [http://localhost:3000](http://localhost:3000) en tu navegador y empieza a gestionar héroes.
+
+
+
+![Imagen de WhatsApp 2025-07-11 a las 08 00 45_cc70a5ec](https://github.com/user-attachments/assets/43542dec-d2e3-4a46-975f-87d0fbc639bb)
+
+
+
+
+   
